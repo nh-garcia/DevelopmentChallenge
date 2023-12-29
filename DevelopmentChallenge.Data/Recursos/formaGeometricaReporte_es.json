@@ -1,0 +1,16 @@
+﻿{
+  "listaVacia": "Lista vacía de formas!",
+  "titulo": "Reporte de Formas",
+  "total": "TOTAL:",
+  "formas": "formas ",
+  "perimetro": "Perimetro ",
+  "area": "Area ",
+  "cuadrado": "Cuadrado",
+  "cuadrados": "Cuadrados",
+  "circulo": "Círculo",
+  "circulos": "Círculos",
+  "triangulo": "Triángulo",
+  "triangulos": "Triángulos",
+  "trapecio": "Trapecio",
+  "trapecios": "Trapecios"
+}

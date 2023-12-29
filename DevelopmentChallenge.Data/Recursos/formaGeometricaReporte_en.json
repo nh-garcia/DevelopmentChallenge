@@ -1,0 +1,16 @@
+﻿{
+  "listaVacia": "Empty list of shapes!",
+  "titulo": "Shapes report",
+  "total": "TOTAL:",
+  "formas": "shapes ",
+  "perimetro": "Perimeter ",
+  "area": "Area ",
+  "cuadrado": "Square",
+  "cuadrados": "Squares",
+  "circulo": "Circle",
+  "circulos": "Circles",
+  "triangulo": "Triangle",
+  "triangulos": "Triangles",
+  "trapecio": "Trapeze",
+  "trapecios": "Trapezes"
+}

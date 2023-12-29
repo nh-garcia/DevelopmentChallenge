@@ -1,0 +1,16 @@
+﻿{
+  "listaVacia": "Elenco forme vuoto!",
+  "titulo": "Rapporto forme",
+  "total": "TOTALE:",
+  "formas": "forme ",
+  "perimetro": "Perimetro ",
+  "area": "Zona ",
+  "cuadrado": "Quadrato",
+  "cuadrados": "Quadrati",
+  "circulo": "Cerchio",
+  "circulos": "Cerchi",
+  "triangulo": "Triangolo",
+  "triangulos": "Triangoli",
+  "trapecio": "Trapezio",
+  "trapecios": "Trapezi"
+}

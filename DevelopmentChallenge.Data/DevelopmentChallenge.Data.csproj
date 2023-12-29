@@ -44,12 +44,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\FormaGeometrica.cs" />
+    <Compile Include="FormasGeometricas\Circulo.cs" />
+    <Compile Include="FormasGeometricas\Cuadrado.cs" />
+    <Compile Include="FormasGeometricas\FormaGeometricaBuilder.cs" />
+    <Compile Include="FormasGeometricas\IFormaGeometrica.cs" />
+    <Compile Include="FormasGeometricas\TrapecioRectangulo.cs" />
+    <Compile Include="FormasGeometricas\TrianguloEquilatero.cs" />
+    <Compile Include="General\Idioma.cs" />
+    <Compile Include="General\Idiomas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recursos\AdministradorRecursos.cs" />
+    <Compile Include="Reportes\FormaGeometricaReporte.cs" />
+    <Compile Include="Reportes\FormaGeometricaReporteTextos.cs" />
+    <Compile Include="Reportes\FormaGeometricaReporteItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <EmbeddedResource Include="Recursos\formaGeometricaReporte_en.json" />
+    <EmbeddedResource Include="Recursos\formaGeometricaReporte_es.json" />
+    <EmbeddedResource Include="Recursos\formaGeometricaReporte_it.json" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
